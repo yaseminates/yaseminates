@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <!-- Stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="200"
-         src="https://github-readme-stats.vercel.app/api?username=yaseminates&show=prs_merged_percentage&show_icons=true&theme=city_lights" />
+         src="https://github-readme-stats.vercel.app/api?username=yaseminates&rank_icon=github&show=prs_merged_percentage&show_icons=true&theme=city_lights" />
   </a>
 
   <!-- Top languages -->
