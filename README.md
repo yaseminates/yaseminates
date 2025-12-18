@@ -14,35 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="display:flex; flex-wrap:wrap; gap:12px; align-items:flex-start;">
-
-  <!-- Stats -->
+<!-- Row 1: Stats -->
+<div style="display:flex; gap:12px; align-items:flex-start;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="200"
          src="https://github-readme-stats.vercel.app/api?username=yaseminates&rank_icon=github&show=prs_merged_percentage&show_icons=true&theme=city_lights" />
   </a>
 
-  <!-- Top languages -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="200"
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaseminates&theme=city_lights&size_weight=0.05&count_weight=0.5" />
   </a>
-
-  <!-- Forwd repo pin -->
-  <a href="https://github.com/LUISS-Finance-Club/Forwd">
-    <img height="150"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=LUISS-Finance-Club&repo=Forwd&theme=city_lights" />
-  </a>
-
-  <!-- AgriSnapp repo pin -->
-  <a href="https://github.com/Google-Developers-Club-Guido-Carli/AgriSnapp">
-    <img height="150"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=Google-Developers-Club-Guido-Carli&repo=AgriSnapp&theme=city_lights" />
-  </a>
-
 </div>
 
-## Check out these two apps ☝️👇
+## Check out these two apps! 👇
 
 ### 1. **AgriSnapp**
 Part of **Salesforce** and **The UN**'s Reboot Accelerator. We created an ML & AI powered early warning system for pest and disease in the Mediterranean for sustainable agriculture and food safety. This app is the **winner** of **UN FAO**'s Reboot The Earth Hackathon.
@@ -50,4 +35,16 @@ Part of **Salesforce** and **The UN**'s Reboot Accelerator. We created an ML & A
 ### 2. **Forwd**
 **Sports-analytics-meets-finance** app. We bridge financial markets and sports betting for **financial literacy**. This app was awarded by **ENS** at the ETHRome Hackathon.
 
+<!-- Row 2: Repo pins -->
+<div style="display:flex; gap:12px; align-items:flex-start; margin-top:12px;">
+  <a href="https://github.com/LUISS-Finance-Club/Forwd">
+    <img height="150"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=LUISS-Finance-Club&repo=Forwd&theme=city_lights" />
+  </a>
+
+  <a href="https://github.com/Google-Developers-Club-Guido-Carli/AgriSnapp">
+    <img height="150"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=Google-Developers-Club-Guido-Carli&repo=AgriSnapp&theme=city_lights" />
+  </a>
+</div>
 
