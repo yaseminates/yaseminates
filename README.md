@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-## Check out these two apps! 👇
+## Check out these two apps/repos! 👇
 
 ### 1. **AgriSnapp**
 Part of **Salesforce** and **The UN**'s Reboot Accelerator. We created an ML & AI powered early warning system for pest and disease in the Mediterranean for sustainable agriculture and food safety. This app is the **winner** of **UN FAO**'s Reboot The Earth Hackathon.
