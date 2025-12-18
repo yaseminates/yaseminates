@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 <!-- Row 1: Stats -->
 <div style="display:flex; gap:12px; align-items:flex-start;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200"
-         src="https://github-readme-stats.vercel.app/api?username=yaseminates&rank_icon=github&show=prs_merged_percentage&show_icons=true&theme=city_lights" />
+    <img height="222"
+         src="https://github-readme-stats.vercel.app/api?username=yaseminates&rank_icon=github&hide=issues&show=prs_merged_percentage&show_icons=true&theme=city_lights" />
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200"
+    <img height="195"
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaseminates&theme=city_lights&size_weight=0.05&count_weight=0.5" />
   </a>
 </div>
