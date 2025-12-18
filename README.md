@@ -50,4 +50,4 @@ Part of **Salesforce** and **The UN**'s Reboot Accelerator. We created an ML & A
 
 <br>
 
-The other repos pinned below are from my undergraduate coursework 👇
+The other repos pinned below are from my coursework and internships 👇
