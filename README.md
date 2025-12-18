@@ -48,3 +48,14 @@ Part of **Salesforce** and **The UN**'s Reboot Accelerator. We created an ML & A
   </a>
 </div>
 
+<br>
+
+The other repos pinned below are from my undergraduate coursework including (but not limited to):
+
+- Machine Learning and Artificial Intelligence
+- Quantitative Models for Data Science
+- Marketing and Business Analytics
+- Data Analysis for Business
+- Databases and Big Data
+- Social Network Analysis
+- Algorithms
