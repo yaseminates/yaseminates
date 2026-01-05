@@ -22,20 +22,3 @@ Part of **Salesforce** and **The UN**'s Reboot Accelerator. We created an ML & A
   
 ### 2. **Forwd**
 **Sports-analytics-meets-quantitative-finance** app. We bridge financial markets and sports betting, bringing awareness to **financial literacy**. This app was awarded by **ENS** at the ETHRome Hackathon.
-
-<!-- Row 2: Repo pins -->
-<div style="display:flex; gap:12px; align-items:flex-start; margin-top:12px;">
-  <a href="https://github.com/LUISS-Finance-Club/Forwd">
-    <img height="150"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=LUISS-Finance-Club&repo=Forwd&theme=city_lights" />
-  </a>
-
-  <a href="https://github.com/Google-Developers-Club-Guido-Carli/AgriSnapp">
-    <img height="150"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=Google-Developers-Club-Guido-Carli&repo=AgriSnapp&theme=city_lights" />
-  </a>
-</div>
-
-<br>
-
-The other repos pinned below are from my coursework and internships 👇
