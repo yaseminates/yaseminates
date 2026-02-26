@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Head to Google Developers Club & LUISS Finance Club for more of my work.
 ## Check out these two apps/repos! 👇
 
 ### 1. **AgriSnapp**
