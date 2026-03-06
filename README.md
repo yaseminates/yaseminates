@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## For more of my work, head to: 
 - ### 👾 [Google Developers Club](https://github.com/orgs/Google-Developers-Club-Guido-Carli/repositories)
-- ### 📊 [LUISS Finance Club](https://www.luiss.it/your-finance-club-page](https://github.com/orgs/LUISS-Finance-Club/repositories))
+- ### 📊 [LUISS Finance Club](https://github.com/orgs/LUISS-Finance-Club/repositories)
 
 ---
 
